@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Teste GIT
+// @name         Teste GIT FUNCIONOU
 // @namespace    http://tampermonkey.net/
 // @version      2026-01-16
 // @description  A script that updates automatically from GitHub
