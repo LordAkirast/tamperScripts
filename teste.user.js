@@ -12,6 +12,6 @@
 
 (function() {
     'use strict';
-alert('oi')
+alert('oi');
     // Your code here...
 })();
