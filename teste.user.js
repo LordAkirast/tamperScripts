@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Teste GIT FUNCIONOU
 // @namespace    http://tampermonkey.net/
-// @version      2026-01-16
+// @version      1.0.0
 // @description  A script that updates automatically from GitHub
 // @author       You
 // @match        https://example.com/*
