@@ -5,8 +5,8 @@
 // @description  A script that updates automatically from GitHub
 // @author       You
 // @match        https://example.com/*
-// @updateURL    https://github.com/LordAkirast/tamperScripts.git
-// @downloadURL  https://github.com/LordAkirast/tamperScripts.git
+// @updateURL    https://github.com/LordAkirast/tamperScripts/blob/main/teste.user.js
+// @downloadURL  https://github.com/LordAkirast/tamperScripts/blob/main/teste.user.js
 // @grant        none
 // ==/UserScript==
 
